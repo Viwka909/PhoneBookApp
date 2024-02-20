@@ -1,0 +1,5 @@
+/home/viwka/C#/PhoneBookApp/obj/Debug/net6.0/PhoneBookApp.csproj.AssemblyReference.cache
+/home/viwka/C#/PhoneBookApp/obj/Debug/net6.0/PhoneBookApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/viwka/C#/PhoneBookApp/obj/Debug/net6.0/PhoneBookApp.AssemblyInfoInputs.cache
+/home/viwka/C#/PhoneBookApp/obj/Debug/net6.0/PhoneBookApp.AssemblyInfo.cs
+/home/viwka/C#/PhoneBookApp/obj/Debug/net6.0/PhoneBookApp.csproj.CoreCompileInputs.cache
